@@ -1,6 +1,7 @@
 import unittest
 import json
 import pandas
+import re
 
 
 with open("Lesson.ipynb", "r") as file:
